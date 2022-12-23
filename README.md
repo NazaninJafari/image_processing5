@@ -33,6 +33,7 @@ image d'origin
 
 ![Screen Shot](part_3/highCont_image2.jpg)
 
+---
 ## Part_4 :
 
 il faut séparer les nombres dans la photo du Sudoku
@@ -44,3 +45,5 @@ il faut séparer les nombres dans la photo du Sudoku
 ### la sortie:
 
 Ce sont des petits photos qui comportent les nombres :
+
+![Screen Shot](part_4/output_img/pic1.jpg) ![Screen Shot](part_4/output_img/pic2.jpg) ![Screen Shot](part_4/output_img/pic3.jpg)   ....
